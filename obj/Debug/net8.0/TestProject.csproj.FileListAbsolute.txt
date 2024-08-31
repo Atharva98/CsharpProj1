@@ -1,0 +1,15 @@
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/atharvapandit/Desktop/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
